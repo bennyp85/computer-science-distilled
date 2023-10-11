@@ -1,2 +1,4 @@
 # Computer Science Distilled
-**Wladstone Ferreira Filho**
+## Wladstone Ferreira Filho
+
+---
